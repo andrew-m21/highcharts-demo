@@ -2,6 +2,10 @@
 
 # Getting Started
 
+## Screenshot
+![alt text](https://user-images.githubusercontent.com/16896205/58815886-72717d00-85f6-11e9-9829-fd02d94e08be.png)
+
+
 ## Dependencies
 
 What you need to run this app:
